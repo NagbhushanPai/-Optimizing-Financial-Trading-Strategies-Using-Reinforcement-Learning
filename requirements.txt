@@ -1,0 +1,15 @@
+tensorflow==2.10.0
+torch==1.13.0
+stable-baselines3==1.6.0
+gym==0.26.2
+yfinance==0.2.18
+sklearn==1.0.2
+pywavelets==1.4.1
+ibapi==9.81.1
+numpy==1.21.0
+pandas==1.3.5
+matplotlib==3.5.0
+docker==6.0.1
+pytest==7.2.0  # For testing
+loguru==0.6.0  # For logging
+pyyaml==6.0    # For YAML configuration

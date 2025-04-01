@@ -1,0 +1,18 @@
+data:
+  symbol: "AAPL"
+  start_date: "2018-01-01"
+  end_date: "2024-01-01"
+
+trading:
+  initial_balance: 10000
+  transaction_cost: 0.001
+
+api:
+  host: "127.0.0.1"
+  port: 7497
+  client_id: 1
+
+model:
+  learning_rate: 0.0003
+  n_steps: 2048
+  total_timesteps: 10000
